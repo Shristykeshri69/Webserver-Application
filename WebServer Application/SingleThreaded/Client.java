@@ -7,7 +7,7 @@ import java.net.InetAddress;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
-public class Client {
+public class Client {   // this is client side
     
     public void run() throws UnknownHostException, IOException{
         int port = 8010;
