@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class Server {
+public class Server {     // this is server side
 
     public void run() throws IOException {
         int port = 8010;
