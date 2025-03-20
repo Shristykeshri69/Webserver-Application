@@ -24,13 +24,16 @@ Error handling and logging for robustness.
 
 Lightweight and efficient request processing.
 
-Installation
+Installation   (Prerequisites)
 
-Prerequisites
-
-Java Development Kit (JDK 11+) installed
+Java Development Kit (JDK 11+) installed  by using this link (https://www.java.com/en/download/manual.jsp)
 
 Any IDE (IntelliJ IDEA, Eclipse, VS Code) or command-line environment
+Some Useful Links:-
+https://www.jetbrains.com/idea/ 
+https://www.eclipse.org/downloads/
+https://code.visualstudio.com/download
+
 
 Steps
 
